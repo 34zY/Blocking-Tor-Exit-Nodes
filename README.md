@@ -14,3 +14,4 @@ References :
 https://www.dan.me.uk/torlist/<br>
 https://gist.github.com/jkullick/62695266273608a968d0d7d03a2c4185<br>
 https://torproject.org<br>
+https://blog.torproject.org/changes-tor-exit-list-service/<br>
